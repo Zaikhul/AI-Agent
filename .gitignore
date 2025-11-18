@@ -6,3 +6,7 @@ environment/
 
 # Ignore build artifacts
 build/
+
+# .md
+Guide.md
+README.md
