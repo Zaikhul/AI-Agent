@@ -1,0 +1,19 @@
+{
+  "gpt_config": {
+    "model": "gpt-4-turbo-preview",
+    "api_key": "${OPENAI_API_KEY}",
+    "temperature": 0.7,
+    "max_tokens": 4096
+  },
+  "glm_config": {
+    "model": "glm-4-flash",
+    "api_key": "${GLM_API_KEY}",
+    "api_base": "${GLM_API_BASE}",
+    "temperature": 0.7
+  },
+  "coding_config": {
+    "model": "gpt-4-turbo-preview",
+    "temperature": 0.3,
+    "max_tokens": 8192
+  }
+}

@@ -1,0 +1,8 @@
+# Ignore venv and dependency directories
+environment/
+
+# Ignore environment and secret files
+.env
+
+# Ignore build artifacts
+build/
